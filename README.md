@@ -7,3 +7,7 @@
 
 ## Journal Entry
 - One of the problems that i encountered was when i couldn't get two of the shapes that is stacked together to change colors at the same time when you hover the mouse into them. I also have another logo that i was experimenting but it seemed really simple and it only has 3 paths so i went with the bigger one.
+
+
+
+github page link - https://jiansk.github.io/dsgn270-a3/
