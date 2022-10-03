@@ -1,0 +1,34 @@
+.logo-left-eye,
+.logo-right-eye{
+    fill: white;
+}
+
+.logo-rect{
+    fill: #245069;
+}
+
+.logo-circle,
+.logo-3rd,
+.logo-2nd,
+.logo-1st{
+    fill: #FF8A00;
+}
+
+.logo-rect:hover{
+    fill: black;
+}
+
+.logo-circle:hover,
+.logo-left-eye:hover,
+.logo-right-eye:hover,
+.logo-3rd:hover,
+.logo-2nd:hover,
+.logo-1st:hover{
+    fill: #a2a2a2;
+}
+
+.logo-grid {
+    display: flex;
+    justify-content: space-around;
+    /* flex-wrap: wrap; */
+}

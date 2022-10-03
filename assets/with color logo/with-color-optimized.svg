@@ -1,0 +1,18 @@
+<svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 838 746">
+  <path fill="#fff" d="M0 0h838v746H0z"/>
+  <ellipse cx="432.5" cy="373.5" rx="299.5" ry="239.5" fill="#FF8A00"/>
+  <!-- big circle -->
+  <rect x="199" y="254" width="467" height="249" rx="124.5" fill="#245069"/>
+  <!-- inner rect -->
+  <ellipse cx="336.5" cy="378" rx="60.5" ry="54" fill="#FF8A00"/>
+  <!-- left circle of the robot -->
+  <ellipse cx="534" cy="378" rx="63" ry="54" fill="#FF8A00"/>
+  <!-- right eye of the robot -->
+  <ellipse cx="731.5" cy="214.5" rx="39.5" ry="32.5" fill="#FF8A00"/>
+  <!-- right eye of the robot -->
+  <ellipse cx="684.5" cy="129.5" rx="39.5" ry="32.5" fill="#FF8A00"/>
+  <!-- 2nd of the 3 circles in the top -->
+  <ellipse cx="579.5" cy="101.5" rx="39.5" ry="32.5" fill="#FF8A00"/>
+  <!--  1st of the three circles in the top -->
+  <path d="M438.726 539.79c-1.537 2.297-4.886 2.379-6.534.16l-30.811-41.476c-1.972-2.656-.053-6.422 3.255-6.385l58.151.639c3.178.035 5.048 3.584 3.28 6.225l-27.341 40.837Z" fill="#245069"/>
+</svg>
