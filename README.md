@@ -1,6 +1,4 @@
-# dsgn270-a3
-
-## Description of the Design
+# Description of the Design
 - 
 
 ## Journal Entry
